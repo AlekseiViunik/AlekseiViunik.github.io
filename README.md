@@ -3,7 +3,9 @@
 Static public pages for Cargo Mess, including the app privacy policy and the
 root-level `app-ads.txt` file used by advertising platforms.
 
-The privacy policy is published in English, Italian, and Russian.
+The privacy policy is published in English, Italian, and Russian. A separate
+US State Privacy Notice (English only) is published at
+`/cargo-mess/privacy-policy/us/` and linked from the policy in every language.
 
 The site deliberately contains no analytics, tracking scripts, external fonts,
 or cookies set by the developer.
